@@ -1,4 +1,4 @@
--- retreiving date from the tables
+-- retreiving data from the tables
 -- note: to make sure that each table has correctly constructed and 
 -- the data has been imported properly the queries has been realised to 
 -- retreive the data from them. All queries have been made successfully. 
